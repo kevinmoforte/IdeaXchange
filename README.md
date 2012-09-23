@@ -1,7 +1,6 @@
 IdeaXchange - Lets Crowdsolve the world's greatest problems
 
 We're Co-creating and collaborating on products and services for social businesses and organizations that will help the poorest families in the world improve their quality of life
-===========
 
 A hub for product/service development that serve the world's poorest - everyone can co-create and improve
 
